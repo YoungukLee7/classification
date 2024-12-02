@@ -93,7 +93,7 @@ const filteredEvent = event.map(item => {
     return rest // 나머지 필드만 반환
 })
 
-console.log(filteredEvent)
+// console.log(filteredEvent)
 
 // 방문자 수 계산
 /*
